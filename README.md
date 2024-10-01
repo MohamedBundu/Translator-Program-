@@ -1,4 +1,4 @@
-# program-2-restaurant-tab-program-MohamedBundu
+# restaurant-tab-program-by-MohamedBundu
 
 Options
   1 - Display Menu
